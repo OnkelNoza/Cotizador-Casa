@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "https://OnkelNoza.gethub.io/Cotizador-Casa",
+  base: "https://OnkelNoza.github.io/Cotizador-Casa",
 })

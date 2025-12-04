@@ -1,7 +1,7 @@
 {
   "name": "cotizador-casa",
   "private": true,
-  "homepage": "https://OnkelNoza.gethub.io/Cotizador-Casa",
+  "homepage": "https://OnkelNoza.github.io/Cotizador-Casa",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
