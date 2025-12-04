@@ -1,0 +1,26 @@
+.footer {
+    color: #fff; 
+    padding: 20px 0; 
+    text-align: center; 
+    background-color: #3a3a3a;
+}
+
+.footer-content {
+    max-width: 1200px; 
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.footer-title {
+    margin: 0; 
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.footer-copyright {
+    display: block;
+    font-size: 0.85em;
+    opacity: 0.8;
+}
