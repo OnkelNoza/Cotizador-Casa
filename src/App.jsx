@@ -9,7 +9,7 @@ function App() {
       <Routes>
         <Route path="/" element={<MainLayout />}>
           <Route index element= {<Cotizacion />} />
-          <Route path='Historial' element={<Historial />} />
+          <Route path='historial' element={<Historial />} />
         </Route>  
       </Routes>
 
